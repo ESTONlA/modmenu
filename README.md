@@ -1,6 +1,7 @@
 # Sir We Have A Mod Menu
 
-A clean in-game mod menu for **Sir, We Have an Orc Problem Playtest**, built for **OrcKit / Orc mod loader**.
+A clean in game mod menu for **Sir, We Have an Orc Problem Playtest**, built for **OrcKit / Orc mod loader**.
+https://github.com/ESTONlA/Orc-mod-loader
 
 Press **F1** in-game to open or close the menu.
 
