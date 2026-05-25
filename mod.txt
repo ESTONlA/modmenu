@@ -1,0 +1,9 @@
+[mod]
+id="sir_we_have_a_mod_menu"
+name="Sir We Have A Mod Menu"
+version="1.0.2"
+author="Estonia"
+priority=0
+
+[autoload]
+SirWeHaveAModMenu="res://scripts/mod_menu.gd"
